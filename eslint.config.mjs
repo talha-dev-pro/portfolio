@@ -1,6 +1,8 @@
 import { dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { FlatCompat } from '@eslint/eslintrc';
+import prettierPlugin from 'eslint-plugin-prettier';
+import unusedImports from 'eslint-plugin-unused-imports';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -16,8 +18,8 @@ const eslintConfig = [
   },
   {
     plugins: {
-      prettier: require('eslint-plugin-prettier'),
-      'unused-imports': require('eslint-plugin-unused-imports'),
+      prettier: prettierPlugin,
+      'unused-imports': unusedImports,
     },
     rules: {
       'prettier/prettier': 'error',
