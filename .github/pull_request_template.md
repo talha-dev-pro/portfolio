@@ -1,7 +1,7 @@
  [//]: # "VERIFY ALL TESTS AND LINT CHECKS PASS LOCALLY BEFORE PROCEEDING"
  [//]: # "can i haz gif plz, kthxbye"
  
- ![example](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnI3MWp2NXVxODlmcW5rMnV1cjNmMmt6YzI5M2t4MjhmZTZxb3hrMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qNwsl4sgJi5ji/giphy.gif)
+ ![example](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm05Y3c2cnBlMXNuN3IzNm1yOTh0b3hkcG12eDV0czNhNDJzdWtxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/znsAD4fS3Z2g6wA55a/giphy.gif)
  
  ## Description
    
