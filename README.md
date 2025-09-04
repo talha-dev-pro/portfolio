@@ -72,10 +72,10 @@ pnpm start
 ### 📂 Project Structure
 
 src/app
-├── layout.tsx        # Root layout
-├── page.tsx          # Homepage
-├── globals.scss      # Global styles
-└── components/       # Reusable UI components
+├── layout.tsx # Root layout
+├── page.tsx # Homepage
+├── globals.scss # Global styles
+└── components/ # Reusable UI components
 
 ### 📬 Contact
 

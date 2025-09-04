@@ -7,7 +7,7 @@
     "build": "next build --turbopack",
     "start": "next start",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
-    "format": "prettier --write ."
+    "format": "prettier --write . --config .prettierrc --ignore-path .gitignore --editorconfig"
   },
   "dependencies": {
     "next": "15.5.2",
