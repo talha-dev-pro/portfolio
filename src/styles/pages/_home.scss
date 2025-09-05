@@ -1,0 +1,9 @@
+.home {
+  min-height: 100vh;
+  padding: 2rem;
+  .controls {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+  }
+}

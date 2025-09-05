@@ -1,0 +1,15 @@
+:root {
+  --bg: #ffffff;
+  --text: #111111;
+  --primary: #0b72ff;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--bg);
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+a { color: var(--primary); text-decoration: none; }
